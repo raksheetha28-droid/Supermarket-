@@ -17,7 +17,7 @@ import seaborn as sns
 # ----------------------------------------------------------------------
 # Constants
 # ----------------------------------------------------------------------
-CSV_NAMES = ["supermarket_sales - Sheet1.csv", "supermarket_sales_-_Sheet1.csv"]
+CSV_NAMES = ["sales.csv", "supermarket_sales - Sheet1.csv", "supermarket_sales_-_Sheet1.csv"]
 TAX_RATE = 0.05
 LOW_LIMIT = 300      # bills below this are "Low"
 HIGH_LIMIT = 800     # bills from this up are "High"
